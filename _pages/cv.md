@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[**Download CV**](http://sridhargopinath.in/files/Sridhar Gopinath - CV.pdf)
+# Resume
 
-[**Download one-page resume**](http://sridhargopinath.in/files/Sridhar Gopinath - Resume.pdf)
+Last updated in Sept, 2020.
 
-# CV
-
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://sridhargopinath.in/files/Sridhar Gopinath - CV.pdf" width="1000" height="1000"></iframe>
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://sridhargopinath.in/files/Sridhar Gopinath - Resume.pdf" width="1000" height="1000"></iframe>

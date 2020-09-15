@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sridhar Gopinath"
 title_separator          : "-"
 name                     : &name "Sridhar Gopinath"
-description              : &description "Ph.D. student at UT Austin"
+description              : &description "MS in CS student at UT Austin"
 url                      : http://sridhargopinath.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sridhargopinath.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sridhar Gopinath"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at UT Austin"
+  bio              : "MS in CS student at UT Austin"
   location         : "Austin, Texas"
   employer         :
   pubmed           :
